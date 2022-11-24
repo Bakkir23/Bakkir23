@@ -1,5 +1,6 @@
 - 📚 Prva gimnazija Sarajevo
 
+- Trenutno poznajem:
 - C++
 
 - Kontakt:
